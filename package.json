@@ -1,0 +1,8 @@
+{
+  "name": "mkv",
+  "version": "0.1.0",
+  "description": "mkv",
+  "readme": "mkv",
+  "bin": "cmd.js",
+  "license": "MIT"
+}
