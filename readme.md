@@ -10,7 +10,7 @@ npm i -g jeromedecoster/mkv
 
 ## Usage
 
-Just call the executable. No options.
+Just call the executable. No parameter, no option.
 
 ```
 mkv
